@@ -11,7 +11,7 @@ Projeto de análise de experimentos
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Planejamento experimentos**
-| :label: Tecnologias | python (pandas, matplotlib, seaborn, statsmodels)
+| :label: Tecnologias | python, pandas, matplotlib, seaborn, statsmodels
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/planejamento_experimentos.png#vitrinedev)
